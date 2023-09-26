@@ -1,43 +1,55 @@
 [
-    {
+  {
       "id": 1,
-      "cover-img": "https://example.com/img/post1.jpg",
-      "title": "The Art of Artificial Intelligence",
-      "author": "John Doe",
-      "author_img": "https://example.com/img/johndoe.jpg",
-      "posted_date": "2023-09-23",
-      "reading_time": 12,
-      "hashtags": ["AI", "MachineLearning", "Technology"]
-    },
-    {
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "September 15, 2023",
+      "reading_time": 5,
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
       "id": 2,
-      "cover-img": "https://example.com/img/post2.jpg",
-      "title": "Exploring Virtual Reality Worlds",
-      "author": "Jane Smith",
-      "author_img": "https://example.com/img/janesmith.jpg",
-      "posted_date": "2023-09-22",
-      "reading_time": 8,
-      "hashtags": ["VirtualReality", "Technology", "Gaming"]
-    },
-    {
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "author": "Sajal Ali",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
       "id": 3,
-      "cover-img": "https://example.com/img/post3.jpg",
-      "title": "Cooking up a Storm: Culinary Adventures",
-      "author": "Alice Johnson",
-      "author_img": "https://example.com/img/alicejohnson.jpg",
-      "posted_date": "2023-09-21",
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Component lifecycle in React-Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author": "Feroze Khan",
+      "posted_date": "July 10, 2023",
       "reading_time": 10,
-      "hashtags": ["Food", "Cooking", "Recipes"]
-    },
-    {
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  },
+  {
       "id": 4,
-      "cover-img": "https://example.com/img/post3.jpg",
-      "title": "Cooking up a Storm: Culinary Adventures",
-      "author": "Alice Johnson",
-      "author_img": "https://example.com/img/alicejohnson.jpg",
-      "posted_date": "2023-09-21",
-      "reading_time": 10,
-      "hashtags": ["Food", "Cooking", "Recipes"]
-    }
-  ]
-  
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author": "Anmol Baloch",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": [
+          "development",
+          "resources"
+      ]
+  }
+]
